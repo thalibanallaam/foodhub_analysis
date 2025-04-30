@@ -39,5 +39,5 @@ Dataset:
 - https://www.kaggle.com/datasets/ahsan81/food-ordering-and-delivery-app-dataset/code
 
 Dashboard:
-- https://public.tableau.com/views/M1_ThalibanAllaam/Visualisasi?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- https://public.tableau.com/views/M1_ThalibanAllaam/Main?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---

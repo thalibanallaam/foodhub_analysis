@@ -1,5 +1,7 @@
 # Foodhub Transaction Analysis
 
+The project covers a comprehensive data analytics initiative aimed at uncovering insights from Foodhub's transaction data. Foodhub is an online food delivery platform operating in New York. This project seeks to analyze transaction patterns to understand customer behavior and business performance.
+
 ## Repository Outline
 ```
 1. README.md - This file
